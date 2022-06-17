@@ -1,3 +1,6 @@
+**Any and All Donations Are Always Appreciated!
+my Ethereum wallet address "0x4E2F69b6fa4527e8B1CCD18593860fE40d9e0b5A"**
+
 # EscrowMyEther
 Open Source Ethereum Smart Contract Dapp that allows 2 transacting parties, a buyer and seller, to trade with their choice of escrow agent. Website: http://escrowmyether.com/
 
@@ -74,14 +77,14 @@ Contract balance can only be withdrawn to your address. The Dapp does not allow 
 A new escrow transaction can be created by clicking "Initialize new transaction" under buyer dashboard. 
 
 ### 1) Finding an escrow agent
-
-A fair escrow lowers transaction fees and costs associated with buyer fraud for sellers while providing you with buyer protection. If you are buying/selling on a forum, we recommend having a forum moderator to escrow for your transaction. It is important to choose a good escrow agent for your protection. Never use an unknown escrow agent.
+You May Use My Escrow Agent Address "0x4E2F69b6fa4527e8B1CCD18593860fE40d9e0b5A"
+A fair escrow lowers transaction fees and costs associated with buyer fraud for sellers while providing you with buyer protection. If you are buying/selling on a forum, we recommend having a forum moderator to escrow for your transaction. It is important to choose a good escrow agent for your protection. Never use an unknown escrow agent. 
 
 ### 2) Prepare transaction info
 
-- Seller Address
+- Seller Address (Ethereum Wallet Address)
 
-- Escrow Address
+- Escrow Address (0x4E2F69b6fa4527e8B1CCD18593860fE40d9e0b5A)
 
 - Amount of Ether to send
 
